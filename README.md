@@ -1,4 +1,4 @@
-# terraform-dockerfile
+# ansible-dockerfile
 simple python3 image with ansible on top of it.
 
 ## This image allows you to work with ansible configuration tool.
